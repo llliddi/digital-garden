@@ -2,12 +2,14 @@ body {
     /***
       ADD YOUR CUSTOM STYLING HERE. (INSIDE THE body {...} section.)
       IT WILL TAKE PRECEDENCE OVER THE STYLING IN THE STYLE.CSS FILE.
-   ***/
-    //  background-color: #ab92a4; /* Light purple background */
-    //  .content {
-    //   font-size: 14px;
-    //  }
-    //  h1 {
-    //   color: black;
-    //  }
+    ***/
+    background-color: #ab92a4; /* Light purple background */
+}
+
+.content {
+    font-size: 14px; /* Example styling for .content */
+}
+
+h1 {
+    color: black; /* Example styling for h1 */
 }
