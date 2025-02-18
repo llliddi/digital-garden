@@ -9,5 +9,6 @@ Hello everyone! I'm İdil and this is my personal Digital Garden!
 
 Check out:
 [[Lilies\|Lilies]]
+[[Daisies\|Daisies]]
 
 
