@@ -10,3 +10,4 @@ Welcome to...
 [[Digital Garden/my fav paint/Vase with Gladioli and Chinese Asters\|Vase with Gladioli and Chinese Asters]]
 [[Digital Garden/my fav paint/Adolescentia\|Adolescentia]]
 [[Digital Garden/my fav paint/Perseus freeing Andromeda\|Perseus freeing Andromeda]]
+[[Digital Garden/my fav paint/Orphée secourant Eurydice\|Orphée secourant Eurydice]]
